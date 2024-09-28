@@ -4,6 +4,7 @@
     "module": "ESNext",
     "outDir": "dist",
     "strict": true,
+    "moduleDetection": "force",
     "skipLibCheck": true // node_modules 내부 타입 정의 파일 검사 x
   },
   "include": ["src"]
