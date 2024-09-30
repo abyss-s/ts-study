@@ -35,4 +35,11 @@ tsc
 }
 ```
 
+## 포스팅
+- [타입스크립트 시작하기](https://tomymoon.tistory.com/154)
+
+
+
+
+---
 참고: [Onebite TypeScript](https://ts.winterlood.com/)
